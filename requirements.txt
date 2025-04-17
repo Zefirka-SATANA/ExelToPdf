@@ -1,4 +1,3 @@
+PyMuPDF
 pandas
-openpyxl
-pymupdf
-pyinstaller
+Pillow
